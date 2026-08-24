@@ -1,0 +1,10 @@
+
+This Level required us to simply read the file in the directory named "-". In order to do this, we simply
+used the cat command and follwed it with a ./
+
+Command used was cat ./-
+
+This gave us the password for level 2
+
+
+
