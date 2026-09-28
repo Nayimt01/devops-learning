@@ -2,7 +2,17 @@
 
 echo "Hello there"
 
-h = 21
 
 echo $h
+
+# this is a test comment
+
+: '
+This
+Is 
+A 
+Multi
+Line
+Comment
+'
 
