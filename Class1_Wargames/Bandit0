@@ -7,3 +7,5 @@ Level 0 --> Use SSH -p 2220 bandit0@bandit.labs.overthewire.org
 enter password supplied then log in. 
 
 Use Cat command to read the file in the home directory of bandit 0 --> password for bandit level 1 can be found.
+
+Hello
