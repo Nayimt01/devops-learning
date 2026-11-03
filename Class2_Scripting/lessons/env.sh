@@ -24,7 +24,7 @@ process_file "./holder.txt"
 
 
 
-# Side note, to group two commands together you can use () in the terminal, seperated by ;.
+# Side note, to group two commands together you can use () , seperated by ;.
 # e.g. (echo ""; ls) >> holder.txt
 
 process_md5(){
