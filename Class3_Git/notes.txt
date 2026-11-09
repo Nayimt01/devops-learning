@@ -1,0 +1,12 @@
+
+This is just a note file noting down everything in regards to the Git class.
+
+To Generate an SSH key - Use ssh-keygen -t ed25519 -C "nayimt01@gmail.com" -f ~/.ssh/class3_demo
+
+Copy and paste the public key into the SSH key section in Github account settings.
+
+
+Then do eval `ssh-agent -s`, then ssh-add ~/.ssh/class3_demo
+
+Then use ssh -T git@github.com to establish ssh connection!
+
